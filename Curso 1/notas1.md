@@ -1,3 +1,5 @@
-# Section 1
+# Tema: Bienvenido al certificado de Google Data Analytics - Video
 
-Secciones creadas
+-Todas las empresas utilizan datos
+Los datos son una coleccion de datos:
+
