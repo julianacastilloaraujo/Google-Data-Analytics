@@ -4,8 +4,6 @@
 * Google Analytics
 * Skills 
   
-
-
 ### Data: A collection of facts
 
 * Los datos son una coleccion de datos: Numeros, videos, palabras, mediciones, observaciones y más
