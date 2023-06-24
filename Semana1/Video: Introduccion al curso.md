@@ -11,10 +11,10 @@
 
 ### A process is
 
-* Ask
-* Prepare
-* Process
-* Analyze
-* Share
-* Act
+* Ask : Pregunta
+* Prepare : Preparate
+* Process : Procesa
+* Analyze : Analiza
+* Share : Comparte
+* Act : Actua
   
