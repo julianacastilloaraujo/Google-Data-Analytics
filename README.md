@@ -1,5 +1,4 @@
-# Google-Data-Analytics
-* Aspectos básicos: Datos, datos, en todas partes(este curso)
+# ⭐️ Google Data Analytics + Coursera ⭐️ * Aspectos básicos: Datos, datos, en todas partes(este curso)
 * Haz preguntas para tomar decisiones basadas en datos
 * Prepara datos para la exploración
 * Procesa datos para pasarlos en limpio
