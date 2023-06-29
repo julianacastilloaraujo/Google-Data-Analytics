@@ -15,3 +15,10 @@ En el análisis computacional de datos, ¿cuál es el término para los elemento
 * Ecosistema de datos (Correct)
 * Mapas de datos
 * Composiciones de datos
+
+### Pregunta - Video : Identifica los ejemplos del mundo real de cómo una empresa podría tomar decisiones basadas en datos. Selecciona todas las opciones correctas. 
+
+* Tomar decisiones de gasto basadas en el instinto del contador de la empresa
+* Sugerir música nueva a un cliente en función de su historial de escucha (Correct)
+* Elegir soluciones de comercio electrónico basadas en las preferencias de compra de los clientes (Correct)
+* Programación de un cierto número de empleados de restaurantes para que trabajen en función de la cantidad promedio de almuerzos por día (Correct)
