@@ -1,17 +1,17 @@
-#Fases
+## Fases
 
--ASK
--PREPARE
--PROCESS
--ANALYZE
--SHARE
--ACT
+* ASK
+* PREPARE
+* PROCESS
+* ANALYZE
+* SHARE
+* ACT
 
--Spanish
+## Fases
 
--Pregunta
--Preparate
--Procesa
--Analiza
--Comparte
--Actua
+* Pregunta
+* Preparate
+* Procesa
+* Analiza
+* Comparte
+* Actua
