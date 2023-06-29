@@ -1,6 +1,10 @@
--Un analista de datos es alguien que colecciona, transforma y organiza datos
+### Pregunta - Video : Introduccion al curso
 
--¿Pero cual es el fin?
+Completa el espacio en blanco: Los datos son una recopilación de _____ que se puede utilizar para sacar conclusiones, hacer predicciones y tomar decisiones. 
 
--ayudar a tomar decisiones fundamentales
+* conceptos
+* ideas
+* hechos
+* pensamientos
+
 

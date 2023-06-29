@@ -19,6 +19,6 @@
 
 #### Data analysis do: Some who collects, transforms, and organizes data in order to help make informed decisions 
 
-* Un analista de datos es alguien que colecciona, transofrma y organiza datos
+* Un analista de datos es alguien que colecciona, transoforma y organiza datos
 
     
