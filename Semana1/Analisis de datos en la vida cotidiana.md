@@ -1,8 +1,5 @@
-#Pregunta
+### Data analysis
 
-*En el análisis computacional de datos, ¿cuál es el término para los elementos que interactúan entre sí a fin de producir, gestionar, almacenar, organizar, analizar y compartir datos? (Recordatorio: asegúrate de desplazarte hacia abajo para ver todas las opciones).
+* The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
 
-
-#Respuesta
-
-#Ecosistema de los datos
+* El analisis de datos es la recopilacion, transformacion, y organizacion de los datos para sacar conlcusiones 

@@ -1,1 +1,7 @@
-### También sabemos que el análisis de datos se basa en la estadística, que de por sí ya tiene una historia bastante larga. Los arqueólogos fueron los primeros en usar la estadística en el Antiguo Egipto con la construcción de las pirámides. Los antiguos egipcios eran maestros de la organización de datos. Documentaban sus cálculos y teorías sobre papiros (material similar al papel), que ahora se consideran los primeros ejemplos de hojas de cálculo y listas de verificación. Los analistas de datos actuales deben mucho a esos brillantes escribas, que ayudaron a crear un proceso más técnico y eficiente.
+### Data Science VS Data Analytics
+
+* Los cientificos de datos crean nuevas preguntas con los datos, mientras que los analistas encuentran respuestas a las preguntas existentes y crean informacion a partir de las fuentes de datos
+
+### Data-driven decision-making
+
+* Este proceso se define como el uso de datos para guiar la estrategia empresarial

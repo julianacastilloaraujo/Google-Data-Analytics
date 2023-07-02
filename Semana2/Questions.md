@@ -38,4 +38,14 @@ Para ejecutar un plan mediante un pensamiento orientado hacia los detalles, ¿qu
     * La causa raiz
 
 ### Para ejecutar un plan mediante un pensamiento orientado hacia los detalles, un analista de datos tiene en cuenta los detalles.
-  
+
+En el problema de ejemplo de no tener suficientes arándanos para preparar un pastel, ¿qué causa raíz se reveló a través del proceso de los Cinco porqués?
+
+    * Las moreras se vieron afectadas por una helada tardía (correct)
+    * Los arbustos de arándanos no tenían suficientes frutas
+    * Los pájaros se comieron los arándanos que crecían en los arbustos
+    * Los pájaros comían arándanos en lugar de moras
+
+### Esta era la respuesta a la quinta pregunta de “por qué”: ¿por qué las moreras no producían frutos? El proceso de los Cinco porqués se utiliza para revelar una causa raíz de un problema a través de la respuesta a la quinta pregunta. Lee cómo se han identificado las causas raíces en el ámbito empresarial mediante el proceso de los Cinco porqués en un artículo de Eric Rie
+
+[enlace del articulo](https://www.fastcompany.com/1669738/to-get-to-the-root-of-a-hard-problem-just-ask-why-five-times)
