@@ -2,8 +2,10 @@
 
 1. Que practica consiste en identificar, definir y resolver un problema usando datos de manera organizada y paso a paso?
    
-    * Contexto
-    * Diseno
+    *Contexto
+      * Diseno de estructuras/base de datos
+    * Visualizacion
+    * Pensamiento analitico (correct)
 
 2. Cuales de las siguientes opciones son ejemplos de visualizacion de datos?
    * Informes
